@@ -1,0 +1,2 @@
+# future-commodity-returns-prediction-using-historical-stock-forex-market-data
+This project entails the development, finetuning, and inferencing of ML models in the prediction of  future commodity returns using historical data from stocks and forex market data. The leveraging of Machine Learning concepts and algorithms bears substantial potential in optimizing trading strategies and managing risk in global commodity markets.
